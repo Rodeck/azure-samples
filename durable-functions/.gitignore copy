@@ -1,0 +1,28 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore local settings file
+local.settings.json
+
+# Ignore Visual Studio files
+.vs/
+
+# Ignore NuGet packages
+*.nupkg
+
+# Ignore user-specific files
+*.user
+
+# Ignore logs
+*.log
+
+# Ignore Azure Functions host files
+host.json
+
+# Ignore Azurite JSON files
+__azurite*.json
+
+# Ignore catalogs starting with __ and ending with __
+__*/
+
